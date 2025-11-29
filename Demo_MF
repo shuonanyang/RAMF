@@ -1,0 +1,375 @@
+C:\Users\31589\anaconda3\envs\Learning_from_data\python.exe C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\DMTFusion_Classification.py
+CUDA available: True
+
+Using device: cuda
+
+======== Fold 1 ========
+Epoch 01: Train Loss=0.6750, Val Loss=0.6458, Val Accuracy=0.7407, Macro F1=0.7191, Weighted F1=0.7234Val Accuracy=0.7593, Macro F1=0.7292
+Best model updated based on val_acc!
+Epoch 02: Train Loss=0.6004, Val Loss=0.5374, Val Accuracy=0.7685, Macro F1=0.7594, Weighted F1=0.7620Val Accuracy=0.7593, Macro F1=0.7468
+Best model updated based on val_acc!
+Epoch 03: Train Loss=0.5021, Val Loss=0.4847, Val Accuracy=0.7870, Macro F1=0.7816, Weighted F1=0.7835Val Accuracy=0.7870, Macro F1=0.7810
+Best model updated based on val_acc!
+Epoch 04: Train Loss=0.4726, Val Loss=0.4769, Val Accuracy=0.7870, Macro F1=0.7839, Weighted F1=0.7854Val Accuracy=0.7963, Macro F1=0.7933
+Best model updated based on val_acc!
+Epoch 05: Train Loss=0.4645, Val Loss=0.5236, Val Accuracy=0.7593, Macro F1=0.7468, Weighted F1=0.7499Val Accuracy=0.7778, Macro F1=0.7641
+Epoch 06: Train Loss=0.4528, Val Loss=0.5222, Val Accuracy=0.7500, Macro F1=0.7381, Weighted F1=0.7412Val Accuracy=0.7917, Macro F1=0.7772
+Epoch 07: Train Loss=0.4399, Val Loss=0.4628, Val Accuracy=0.7870, Macro F1=0.7828, Weighted F1=0.7845Val Accuracy=0.8102, Macro F1=0.8051
+Epoch 08: Train Loss=0.4106, Val Loss=0.4516, Val Accuracy=0.8056, Macro F1=0.8042, Weighted F1=0.8051Val Accuracy=0.7963, Macro F1=0.7952
+Best model updated based on val_acc!
+Epoch 09: Train Loss=0.3985, Val Loss=0.4486, Val Accuracy=0.8241, Macro F1=0.8233, Weighted F1=0.8240Val Accuracy=0.7963, Macro F1=0.7952
+Best model updated based on val_acc!
+Epoch 10: Train Loss=0.3783, Val Loss=0.4343, Val Accuracy=0.8056, Macro F1=0.8035, Weighted F1=0.8046Val Accuracy=0.8102, Macro F1=0.8080
+Epoch 11: Train Loss=0.3569, Val Loss=0.4495, Val Accuracy=0.8426, Macro F1=0.8419, Weighted F1=0.8425Val Accuracy=0.7917, Macro F1=0.7900
+Best model updated based on val_acc!
+Epoch 12: Train Loss=0.3195, Val Loss=0.4361, Val Accuracy=0.8241, Macro F1=0.8228, Weighted F1=0.8237Val Accuracy=0.8009, Macro F1=0.7978
+Epoch 13: Train Loss=0.2970, Val Loss=0.4360, Val Accuracy=0.8333, Macro F1=0.8324, Weighted F1=0.8331Val Accuracy=0.8102, Macro F1=0.8067
+Epoch 14: Train Loss=0.2719, Val Loss=0.4243, Val Accuracy=0.8519, Macro F1=0.8510, Weighted F1=0.8516Val Accuracy=0.8148, Macro F1=0.8107
+Best model updated based on val_acc!
+Epoch 15: Train Loss=0.2579, Val Loss=0.4195, Val Accuracy=0.8426, Macro F1=0.8409, Weighted F1=0.8418Val Accuracy=0.8102, Macro F1=0.8051
+Epoch 16: Train Loss=0.2215, Val Loss=0.4565, Val Accuracy=0.8426, Macro F1=0.8403, Weighted F1=0.8413Val Accuracy=0.8148, Macro F1=0.8075
+Epoch 17: Train Loss=0.1867, Val Loss=0.4917, Val Accuracy=0.8333, Macro F1=0.8305, Weighted F1=0.8317Val Accuracy=0.8148, Macro F1=0.8075
+Epoch 18: Train Loss=0.1602, Val Loss=0.4914, Val Accuracy=0.8333, Macro F1=0.8313, Weighted F1=0.8323Val Accuracy=0.8102, Macro F1=0.8056
+Epoch 19: Train Loss=0.1289, Val Loss=0.5559, Val Accuracy=0.8241, Macro F1=0.8196, Weighted F1=0.8212Val Accuracy=0.8056, Macro F1=0.7963
+Epoch 20: Train Loss=0.1169, Val Loss=0.5891, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8220Val Accuracy=0.8056, Macro F1=0.7971
+Epoch 21: Train Loss=0.1061, Val Loss=0.6675, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7912Val Accuracy=0.8056, Macro F1=0.7945
+Epoch 22: Train Loss=0.1064, Val Loss=0.5953, Val Accuracy=0.8241, Macro F1=0.8196, Weighted F1=0.8212Val Accuracy=0.7963, Macro F1=0.7898
+Epoch 23: Train Loss=0.0869, Val Loss=0.7011, Val Accuracy=0.8148, Macro F1=0.8107, Weighted F1=0.8122Val Accuracy=0.7731, Macro F1=0.7586
+Epoch 24: Train Loss=0.0992, Val Loss=0.5308, Val Accuracy=0.8426, Macro F1=0.8419, Weighted F1=0.8425Val Accuracy=0.7824, Macro F1=0.7807
+Epoch 25: Train Loss=0.1032, Val Loss=0.6116, Val Accuracy=0.8426, Macro F1=0.8403, Weighted F1=0.8413Val Accuracy=0.7870, Macro F1=0.7810
+Epoch 26: Train Loss=0.0695, Val Loss=0.6281, Val Accuracy=0.8426, Macro F1=0.8403, Weighted F1=0.8413Val Accuracy=0.7917, Macro F1=0.7854
+Epoch 27: Train Loss=0.0612, Val Loss=0.6495, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8220Val Accuracy=0.7593, Macro F1=0.7545
+Epoch 28: Train Loss=0.0510, Val Loss=0.6543, Val Accuracy=0.8426, Macro F1=0.8403, Weighted F1=0.8413Val Accuracy=0.7778, Macro F1=0.7734
+Epoch 29: Train Loss=0.0489, Val Loss=0.7749, Val Accuracy=0.8148, Macro F1=0.8095, Weighted F1=0.8113Val Accuracy=0.7778, Macro F1=0.7652
+Epoch 30: Train Loss=0.0526, Val Loss=0.7108, Val Accuracy=0.8333, Macro F1=0.8305, Weighted F1=0.8317Val Accuracy=0.8009, Macro F1=0.7927
+Epoch 31: Train Loss=0.0475, Val Loss=0.8108, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8013Val Accuracy=0.7778, Macro F1=0.7630
+Epoch 32: Train Loss=0.0423, Val Loss=0.7777, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8013Val Accuracy=0.7824, Macro F1=0.7696
+Epoch 33: Train Loss=0.0396, Val Loss=0.7725, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8310Val Accuracy=0.7963, Macro F1=0.7875
+Epoch 34: Train Loss=0.0383, Val Loss=0.7876, Val Accuracy=0.8241, Macro F1=0.8196, Weighted F1=0.8212Val Accuracy=0.7917, Macro F1=0.7813
+Epoch 35: Train Loss=0.0419, Val Loss=0.6970, Val Accuracy=0.8519, Macro F1=0.8493, Weighted F1=0.8504Val Accuracy=0.7963, Macro F1=0.7898
+Epoch 36: Train Loss=0.0328, Val Loss=0.7951, Val Accuracy=0.8148, Macro F1=0.8095, Weighted F1=0.8113Val Accuracy=0.7778, Macro F1=0.7662
+Epoch 37: Train Loss=0.0301, Val Loss=0.8147, Val Accuracy=0.8148, Macro F1=0.8095, Weighted F1=0.8113Val Accuracy=0.7639, Macro F1=0.7499
+Epoch 38: Train Loss=0.0232, Val Loss=0.8078, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8310Val Accuracy=0.7778, Macro F1=0.7672
+Epoch 39: Train Loss=0.0283, Val Loss=0.8438, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8310Val Accuracy=0.7639, Macro F1=0.7511
+Epoch 40: Train Loss=0.0347, Val Loss=0.8463, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8310Val Accuracy=0.7593, Macro F1=0.7468
+Epoch 41: Train Loss=0.0281, Val Loss=0.6816, Val Accuracy=0.8519, Macro F1=0.8510, Weighted F1=0.8516Val Accuracy=0.7824, Macro F1=0.7803
+Epoch 42: Train Loss=0.0782, Val Loss=1.3570, Val Accuracy=0.7500, Macro F1=0.7333, Weighted F1=0.7370Val Accuracy=0.7361, Macro F1=0.7080
+Epoch 43: Train Loss=0.1287, Val Loss=0.8596, Val Accuracy=0.8056, Macro F1=0.8006, Weighted F1=0.8024Val Accuracy=0.7731, Macro F1=0.7619
+Epoch 44: Train Loss=0.0617, Val Loss=0.7689, Val Accuracy=0.8148, Macro F1=0.8107, Weighted F1=0.8122Val Accuracy=0.7963, Macro F1=0.7875
+Epoch 45: Train Loss=0.0536, Val Loss=0.9682, Val Accuracy=0.7778, Macro F1=0.7682, Weighted F1=0.7708Val Accuracy=0.7778, Macro F1=0.7605
+Epoch 46: Train Loss=0.0309, Val Loss=0.6438, Val Accuracy=0.8333, Macro F1=0.8313, Weighted F1=0.8323Val Accuracy=0.7731, Macro F1=0.7695
+Epoch 47: Train Loss=0.0360, Val Loss=0.8726, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7824, Macro F1=0.7706
+Epoch 48: Train Loss=0.0279, Val Loss=0.9101, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7870, Macro F1=0.7750
+Epoch 49: Train Loss=0.0305, Val Loss=0.8926, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7824, Macro F1=0.7696
+Epoch 50: Train Loss=0.0243, Val Loss=0.9353, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7824, Macro F1=0.7685
+Epoch 51: Train Loss=0.0217, Val Loss=0.9631, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7870, Macro F1=0.7739
+Epoch 52: Train Loss=0.0212, Val Loss=0.8066, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8220Val Accuracy=0.7731, Macro F1=0.7647
+Epoch 53: Train Loss=0.0211, Val Loss=0.9077, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7963, Macro F1=0.7848
+Epoch 54: Train Loss=0.0191, Val Loss=0.9082, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.8009, Macro F1=0.7901
+Epoch 55: Train Loss=0.0204, Val Loss=0.8894, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.8009, Macro F1=0.7901
+Epoch 56: Train Loss=0.0199, Val Loss=0.9158, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7917, Macro F1=0.7794
+Epoch 57: Train Loss=0.0262, Val Loss=0.9849, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7917, Macro F1=0.7783
+Epoch 58: Train Loss=0.0157, Val Loss=0.9779, Val Accuracy=0.7963, Macro F1=0.7905, Weighted F1=0.7924Val Accuracy=0.7870, Macro F1=0.7739
+Epoch 59: Train Loss=0.0189, Val Loss=0.9360, Val Accuracy=0.8056, Macro F1=0.8006, Weighted F1=0.8024Val Accuracy=0.7870, Macro F1=0.7760
+Epoch 60: Train Loss=0.0189, Val Loss=0.9038, Val Accuracy=0.8148, Macro F1=0.8107, Weighted F1=0.8122Val Accuracy=0.7870, Macro F1=0.7760
+[*] Best model for fold 1 saved to C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\sep_transformer_best_model_fold_1.pth
+==> [Fold 1 Test] Acc=0.8148, MacroF1=0.8107, F1(H)=0.7826, AUC=0.8733, Prec(H)=0.7742, Recall(H)=0.7912
+
+======== Fold 2 ========
+Epoch 01: Train Loss=0.6826, Val Loss=0.6419, Val Accuracy=0.7407, Macro F1=0.6945, Weighted F1=0.7121Val Accuracy=0.7315, Macro F1=0.6863
+Best model updated based on val_acc!
+Epoch 02: Train Loss=0.6137, Val Loss=0.5513, Val Accuracy=0.8148, Macro F1=0.7944, Weighted F1=0.8040Val Accuracy=0.7685, Macro F1=0.7447
+Best model updated based on val_acc!
+Epoch 03: Train Loss=0.5427, Val Loss=0.5150, Val Accuracy=0.7870, Macro F1=0.7705, Weighted F1=0.7796Val Accuracy=0.8009, Macro F1=0.7901
+Epoch 04: Train Loss=0.4888, Val Loss=0.5074, Val Accuracy=0.7593, Macro F1=0.7468, Weighted F1=0.7551Val Accuracy=0.8241, Macro F1=0.8185
+Epoch 05: Train Loss=0.4763, Val Loss=0.4948, Val Accuracy=0.7963, Macro F1=0.7793, Weighted F1=0.7883Val Accuracy=0.7963, Macro F1=0.7816
+Epoch 06: Train Loss=0.4566, Val Loss=0.4673, Val Accuracy=0.7778, Macro F1=0.7682, Weighted F1=0.7752Val Accuracy=0.8380, Macro F1=0.8336
+Epoch 07: Train Loss=0.4334, Val Loss=0.4617, Val Accuracy=0.7963, Macro F1=0.7767, Weighted F1=0.7865Val Accuracy=0.8102, Macro F1=0.7970
+Epoch 08: Train Loss=0.4286, Val Loss=0.4117, Val Accuracy=0.8148, Macro F1=0.7993, Weighted F1=0.8076Val Accuracy=0.8102, Macro F1=0.8016
+Best model updated based on val_acc!
+Epoch 09: Train Loss=0.3937, Val Loss=0.3535, Val Accuracy=0.8519, Macro F1=0.8454, Weighted F1=0.8501Val Accuracy=0.8287, Macro F1=0.8229
+Best model updated based on val_acc!
+Epoch 10: Train Loss=0.3602, Val Loss=0.3463, Val Accuracy=0.8519, Macro F1=0.8427, Weighted F1=0.8483Val Accuracy=0.8287, Macro F1=0.8223
+Epoch 11: Train Loss=0.3389, Val Loss=0.3198, Val Accuracy=0.8704, Macro F1=0.8667, Weighted F1=0.8700Val Accuracy=0.8287, Macro F1=0.8256
+Best model updated based on val_acc!
+Epoch 12: Train Loss=0.3104, Val Loss=0.3203, Val Accuracy=0.8796, Macro F1=0.8728, Weighted F1=0.8772Val Accuracy=0.8241, Macro F1=0.8196
+Best model updated based on val_acc!
+Epoch 13: Train Loss=0.2626, Val Loss=0.3264, Val Accuracy=0.8333, Macro F1=0.8313, Weighted F1=0.8340Val Accuracy=0.8102, Macro F1=0.8090
+Epoch 14: Train Loss=0.2356, Val Loss=0.3378, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8333Val Accuracy=0.8472, Macro F1=0.8451
+Epoch 15: Train Loss=0.2185, Val Loss=0.5311, Val Accuracy=0.8241, Macro F1=0.8034, Weighted F1=0.8129Val Accuracy=0.8009, Macro F1=0.7882
+Epoch 16: Train Loss=0.2312, Val Loss=0.4483, Val Accuracy=0.8426, Macro F1=0.8285, Weighted F1=0.8358Val Accuracy=0.8241, Macro F1=0.8157
+Epoch 17: Train Loss=0.1966, Val Loss=0.4498, Val Accuracy=0.8333, Macro F1=0.8173, Weighted F1=0.8253Val Accuracy=0.8333, Macro F1=0.8254
+Epoch 18: Train Loss=0.1798, Val Loss=0.3669, Val Accuracy=0.8704, Macro F1=0.8658, Weighted F1=0.8694Val Accuracy=0.8426, Macro F1=0.8395
+Epoch 19: Train Loss=0.1458, Val Loss=0.4045, Val Accuracy=0.8426, Macro F1=0.8364, Weighted F1=0.8411Val Accuracy=0.8333, Macro F1=0.8286
+Epoch 20: Train Loss=0.1229, Val Loss=0.4204, Val Accuracy=0.8148, Macro F1=0.8125, Weighted F1=0.8156Val Accuracy=0.8148, Macro F1=0.8135
+Epoch 21: Train Loss=0.1046, Val Loss=0.5084, Val Accuracy=0.8056, Macro F1=0.7904, Weighted F1=0.7988Val Accuracy=0.8148, Macro F1=0.8082
+Epoch 22: Train Loss=0.1004, Val Loss=0.6955, Val Accuracy=0.7963, Macro F1=0.7767, Weighted F1=0.7865Val Accuracy=0.8056, Macro F1=0.7936
+Epoch 23: Train Loss=0.0966, Val Loss=0.6423, Val Accuracy=0.8056, Macro F1=0.7881, Weighted F1=0.7971Val Accuracy=0.8194, Macro F1=0.8096
+Epoch 24: Train Loss=0.0777, Val Loss=0.5552, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8193Val Accuracy=0.8009, Macro F1=0.7927
+Epoch 25: Train Loss=0.0716, Val Loss=0.5639, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8193Val Accuracy=0.8194, Macro F1=0.8120
+Epoch 26: Train Loss=0.0743, Val Loss=0.6492, Val Accuracy=0.8241, Macro F1=0.8104, Weighted F1=0.8179Val Accuracy=0.8194, Macro F1=0.8096
+Epoch 27: Train Loss=0.0685, Val Loss=0.5604, Val Accuracy=0.8148, Macro F1=0.8107, Weighted F1=0.8148Val Accuracy=0.8102, Macro F1=0.8067
+Epoch 28: Train Loss=0.0737, Val Loss=0.6296, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8243Val Accuracy=0.8102, Macro F1=0.8076
+Epoch 29: Train Loss=0.0488, Val Loss=0.6238, Val Accuracy=0.8333, Macro F1=0.8296, Weighted F1=0.8333Val Accuracy=0.8194, Macro F1=0.8146
+Epoch 30: Train Loss=0.0508, Val Loss=0.7573, Val Accuracy=0.8241, Macro F1=0.8104, Weighted F1=0.8179Val Accuracy=0.8148, Macro F1=0.8060
+Epoch 31: Train Loss=0.0417, Val Loss=0.6441, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8243Val Accuracy=0.7824, Macro F1=0.7795
+Epoch 32: Train Loss=0.0518, Val Loss=0.7400, Val Accuracy=0.7870, Macro F1=0.7787, Weighted F1=0.7850Val Accuracy=0.8194, Macro F1=0.8134
+Epoch 33: Train Loss=0.0408, Val Loss=0.7148, Val Accuracy=0.8241, Macro F1=0.8222, Weighted F1=0.8249Val Accuracy=0.7963, Macro F1=0.7937
+Epoch 34: Train Loss=0.0395, Val Loss=0.7179, Val Accuracy=0.8241, Macro F1=0.8215, Weighted F1=0.8247Val Accuracy=0.7917, Macro F1=0.7878
+Epoch 35: Train Loss=0.0412, Val Loss=0.7525, Val Accuracy=0.8333, Macro F1=0.8313, Weighted F1=0.8340Val Accuracy=0.7963, Macro F1=0.7945
+Epoch 36: Train Loss=0.0457, Val Loss=0.7210, Val Accuracy=0.8241, Macro F1=0.8172, Weighted F1=0.8224Val Accuracy=0.7963, Macro F1=0.7905
+Epoch 37: Train Loss=0.0377, Val Loss=0.7804, Val Accuracy=0.8333, Macro F1=0.8313, Weighted F1=0.8340Val Accuracy=0.7917, Macro F1=0.7884
+Epoch 38: Train Loss=0.0254, Val Loss=0.9627, Val Accuracy=0.8148, Macro F1=0.7944, Weighted F1=0.8040Val Accuracy=0.7870, Macro F1=0.7679
+Epoch 39: Train Loss=0.0280, Val Loss=0.8526, Val Accuracy=0.7870, Macro F1=0.7816, Weighted F1=0.7867Val Accuracy=0.8056, Macro F1=0.8017
+Epoch 40: Train Loss=0.0278, Val Loss=0.9191, Val Accuracy=0.8056, Macro F1=0.7979, Weighted F1=0.8037Val Accuracy=0.8102, Macro F1=0.8031
+Epoch 41: Train Loss=0.0322, Val Loss=0.8805, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8287, Macro F1=0.8229
+Epoch 42: Train Loss=0.0190, Val Loss=0.8297, Val Accuracy=0.7963, Macro F1=0.7875, Weighted F1=0.7939Val Accuracy=0.8102, Macro F1=0.8008
+Epoch 43: Train Loss=0.0229, Val Loss=0.8107, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8009, Macro F1=0.7910
+Epoch 44: Train Loss=0.0160, Val Loss=0.8236, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8009, Macro F1=0.7919
+Epoch 45: Train Loss=0.0157, Val Loss=0.8577, Val Accuracy=0.8241, Macro F1=0.8206, Weighted F1=0.8243Val Accuracy=0.8148, Macro F1=0.8107
+Epoch 46: Train Loss=0.0144, Val Loss=0.8813, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8056, Macro F1=0.8000
+Epoch 47: Train Loss=0.0126, Val Loss=0.8751, Val Accuracy=0.8148, Macro F1=0.8068, Weighted F1=0.8126Val Accuracy=0.8148, Macro F1=0.8068
+Epoch 48: Train Loss=0.0139, Val Loss=0.9100, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8194, Macro F1=0.8127
+Epoch 49: Train Loss=0.0142, Val Loss=0.9265, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8194, Macro F1=0.8127
+Epoch 50: Train Loss=0.0143, Val Loss=0.9254, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8194, Macro F1=0.8127
+Epoch 51: Train Loss=0.0114, Val Loss=0.9401, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8194, Macro F1=0.8127
+Epoch 52: Train Loss=0.0105, Val Loss=0.9687, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8148, Macro F1=0.8082
+Epoch 53: Train Loss=0.0117, Val Loss=0.9842, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8194, Macro F1=0.8134
+Epoch 54: Train Loss=0.0115, Val Loss=1.0055, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8148, Macro F1=0.8089
+Epoch 55: Train Loss=0.0115, Val Loss=1.0135, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8194, Macro F1=0.8140
+Epoch 56: Train Loss=0.0129, Val Loss=1.0373, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8194, Macro F1=0.8140
+Epoch 57: Train Loss=0.0108, Val Loss=1.0558, Val Accuracy=0.8056, Macro F1=0.7993, Weighted F1=0.8046Val Accuracy=0.8148, Macro F1=0.8089
+Epoch 58: Train Loss=0.0102, Val Loss=1.0572, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8241, Macro F1=0.8178
+Epoch 59: Train Loss=0.0097, Val Loss=1.0686, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8194, Macro F1=0.8127
+Epoch 60: Train Loss=0.0149, Val Loss=1.0896, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7948Val Accuracy=0.8148, Macro F1=0.8089
+[*] Best model for fold 2 saved to C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\sep_transformer_best_model_fold_2.pth
+==> [Fold 2 Test] Acc=0.8241, MacroF1=0.8196, F1(H)=0.7912, AUC=0.8871, Prec(H)=0.8000, Recall(H)=0.7826
+
+======== Fold 3 ========
+Epoch 01: Train Loss=0.6817, Val Loss=0.6568, Val Accuracy=0.7593, Macro F1=0.7551, Weighted F1=0.7628Val Accuracy=0.7824, Macro F1=0.7706
+Best model updated based on val_acc!
+Epoch 02: Train Loss=0.6222, Val Loss=0.5548, Val Accuracy=0.8056, Macro F1=0.7963, Weighted F1=0.8068Val Accuracy=0.8009, Macro F1=0.7824
+Best model updated based on val_acc!
+Epoch 03: Train Loss=0.5319, Val Loss=0.4866, Val Accuracy=0.8148, Macro F1=0.8052, Weighted F1=0.8156Val Accuracy=0.7917, Macro F1=0.7749
+Best model updated based on val_acc!
+Epoch 04: Train Loss=0.4966, Val Loss=0.4521, Val Accuracy=0.8426, Macro F1=0.8321, Weighted F1=0.8422Val Accuracy=0.8009, Macro F1=0.7849
+Best model updated based on val_acc!
+Epoch 05: Train Loss=0.4708, Val Loss=0.4494, Val Accuracy=0.7963, Macro F1=0.7891, Weighted F1=0.7985Val Accuracy=0.8009, Macro F1=0.7892
+Epoch 06: Train Loss=0.4468, Val Loss=0.4287, Val Accuracy=0.8241, Macro F1=0.8172, Weighted F1=0.8257Val Accuracy=0.8056, Macro F1=0.7945
+Epoch 07: Train Loss=0.4270, Val Loss=0.4149, Val Accuracy=0.8333, Macro F1=0.8247, Weighted F1=0.8341Val Accuracy=0.8102, Macro F1=0.7980
+Epoch 08: Train Loss=0.4189, Val Loss=0.4050, Val Accuracy=0.8241, Macro F1=0.8185, Weighted F1=0.8261Val Accuracy=0.8241, Macro F1=0.8165
+Epoch 09: Train Loss=0.3932, Val Loss=0.3791, Val Accuracy=0.8333, Macro F1=0.8261, Weighted F1=0.8346Val Accuracy=0.8426, Macro F1=0.8344
+Epoch 10: Train Loss=0.3760, Val Loss=0.3586, Val Accuracy=0.8426, Macro F1=0.8321, Weighted F1=0.8422Val Accuracy=0.8519, Macro F1=0.8412
+Epoch 11: Train Loss=0.3505, Val Loss=0.3326, Val Accuracy=0.8519, Macro F1=0.8427, Weighted F1=0.8519Val Accuracy=0.8565, Macro F1=0.8449
+Best model updated based on val_acc!
+Epoch 12: Train Loss=0.3218, Val Loss=0.3295, Val Accuracy=0.8426, Macro F1=0.8351, Weighted F1=0.8436Val Accuracy=0.8426, Macro F1=0.8337
+Epoch 13: Train Loss=0.3096, Val Loss=0.3294, Val Accuracy=0.8796, Macro F1=0.8758, Weighted F1=0.8810Val Accuracy=0.8148, Macro F1=0.8082
+Best model updated based on val_acc!
+Epoch 14: Train Loss=0.2829, Val Loss=0.3320, Val Accuracy=0.8241, Macro F1=0.8083, Weighted F1=0.8215Val Accuracy=0.8519, Macro F1=0.8345
+Epoch 15: Train Loss=0.2511, Val Loss=0.3804, Val Accuracy=0.8426, Macro F1=0.8241, Weighted F1=0.8378Val Accuracy=0.8194, Macro F1=0.7916
+Epoch 16: Train Loss=0.2637, Val Loss=0.3748, Val Accuracy=0.8519, Macro F1=0.8485, Weighted F1=0.8539Val Accuracy=0.8148, Macro F1=0.8112
+Epoch 17: Train Loss=0.2388, Val Loss=0.3383, Val Accuracy=0.8704, Macro F1=0.8667, Weighted F1=0.8720Val Accuracy=0.8333, Macro F1=0.8254
+Epoch 18: Train Loss=0.2053, Val Loss=0.3541, Val Accuracy=0.8611, Macro F1=0.8503, Weighted F1=0.8600Val Accuracy=0.8287, Macro F1=0.8092
+Epoch 19: Train Loss=0.1916, Val Loss=0.3457, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.8148, Macro F1=0.8025
+Epoch 20: Train Loss=0.1688, Val Loss=0.3842, Val Accuracy=0.8333, Macro F1=0.8305, Weighted F1=0.8358Val Accuracy=0.8287, Macro F1=0.8251
+Epoch 21: Train Loss=0.1619, Val Loss=0.3570, Val Accuracy=0.8889, Macro F1=0.8841, Weighted F1=0.8898Val Accuracy=0.8148, Macro F1=0.8060
+Best model updated based on val_acc!
+Epoch 22: Train Loss=0.1683, Val Loss=0.4354, Val Accuracy=0.8519, Macro F1=0.8427, Weighted F1=0.8519Val Accuracy=0.8102, Macro F1=0.7925
+Epoch 23: Train Loss=0.1995, Val Loss=0.4961, Val Accuracy=0.8056, Macro F1=0.7827, Weighted F1=0.7997Val Accuracy=0.8194, Macro F1=0.7916
+Epoch 24: Train Loss=0.1372, Val Loss=0.4057, Val Accuracy=0.8611, Macro F1=0.8503, Weighted F1=0.8600Val Accuracy=0.8194, Macro F1=0.8027
+Epoch 25: Train Loss=0.1177, Val Loss=0.4588, Val Accuracy=0.8519, Macro F1=0.8395, Weighted F1=0.8502Val Accuracy=0.8056, Macro F1=0.7855
+Epoch 26: Train Loss=0.1115, Val Loss=0.4155, Val Accuracy=0.8796, Macro F1=0.8739, Weighted F1=0.8804Val Accuracy=0.8287, Macro F1=0.8209
+Epoch 27: Train Loss=0.0934, Val Loss=0.4578, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.7963, Macro F1=0.7866
+Epoch 28: Train Loss=0.0839, Val Loss=0.5344, Val Accuracy=0.8426, Macro F1=0.8304, Weighted F1=0.8413Val Accuracy=0.8241, Macro F1=0.8083
+Epoch 29: Train Loss=0.0829, Val Loss=0.6449, Val Accuracy=0.8148, Macro F1=0.7944, Weighted F1=0.8100Val Accuracy=0.7917, Macro F1=0.7680
+Epoch 30: Train Loss=0.0922, Val Loss=0.7093, Val Accuracy=0.7778, Macro F1=0.7424, Weighted F1=0.7654Val Accuracy=0.7963, Macro F1=0.7600
+Epoch 31: Train Loss=0.0674, Val Loss=0.5492, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.8194, Macro F1=0.8049
+Epoch 32: Train Loss=0.0524, Val Loss=0.6669, Val Accuracy=0.8333, Macro F1=0.8125, Weighted F1=0.8275Val Accuracy=0.8194, Macro F1=0.7962
+Epoch 33: Train Loss=0.1006, Val Loss=0.6859, Val Accuracy=0.8241, Macro F1=0.8215, Weighted F1=0.8267Val Accuracy=0.7870, Macro F1=0.7859
+Epoch 34: Train Loss=0.1324, Val Loss=0.4972, Val Accuracy=0.8611, Macro F1=0.8576, Weighted F1=0.8630Val Accuracy=0.8241, Macro F1=0.8211
+Epoch 35: Train Loss=0.0666, Val Loss=0.4369, Val Accuracy=0.8796, Macro F1=0.8758, Weighted F1=0.8810Val Accuracy=0.8009, Macro F1=0.7962
+Epoch 36: Train Loss=0.0575, Val Loss=0.5541, Val Accuracy=0.8426, Macro F1=0.8304, Weighted F1=0.8413Val Accuracy=0.8194, Macro F1=0.8049
+Epoch 37: Train Loss=0.0378, Val Loss=0.5972, Val Accuracy=0.8519, Macro F1=0.8395, Weighted F1=0.8502Val Accuracy=0.8009, Macro F1=0.7849
+Epoch 38: Train Loss=0.0328, Val Loss=0.5360, Val Accuracy=0.8704, Macro F1=0.8624, Weighted F1=0.8704Val Accuracy=0.8102, Macro F1=0.8016
+Epoch 39: Train Loss=0.0280, Val Loss=0.7420, Val Accuracy=0.8333, Macro F1=0.8098, Weighted F1=0.8259Val Accuracy=0.8194, Macro F1=0.7932
+Epoch 40: Train Loss=0.0274, Val Loss=0.6215, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8102, Macro F1=0.8008
+Epoch 41: Train Loss=0.0228, Val Loss=0.7577, Val Accuracy=0.8148, Macro F1=0.7944, Weighted F1=0.8100Val Accuracy=0.8287, Macro F1=0.8080
+Epoch 42: Train Loss=0.0314, Val Loss=0.9307, Val Accuracy=0.8056, Macro F1=0.7728, Weighted F1=0.7936Val Accuracy=0.8009, Macro F1=0.7664
+Epoch 43: Train Loss=0.0282, Val Loss=0.6479, Val Accuracy=0.8519, Macro F1=0.8442, Weighted F1=0.8525Val Accuracy=0.8148, Macro F1=0.8082
+Epoch 44: Train Loss=0.0277, Val Loss=0.7126, Val Accuracy=0.8426, Macro F1=0.8304, Weighted F1=0.8413Val Accuracy=0.8009, Macro F1=0.7824
+Epoch 45: Train Loss=0.0229, Val Loss=0.7052, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8056, Macro F1=0.7893
+Epoch 46: Train Loss=0.0163, Val Loss=0.6737, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.8056, Macro F1=0.7915
+Epoch 47: Train Loss=0.0211, Val Loss=0.6501, Val Accuracy=0.8889, Macro F1=0.8849, Weighted F1=0.8901Val Accuracy=0.8241, Macro F1=0.8196
+Best model updated based on val_acc!
+Epoch 48: Train Loss=0.0206, Val Loss=0.7760, Val Accuracy=0.8426, Macro F1=0.8264, Weighted F1=0.8392Val Accuracy=0.8102, Macro F1=0.7857
+Epoch 49: Train Loss=0.0314, Val Loss=0.7137, Val Accuracy=0.8796, Macro F1=0.8749, Weighted F1=0.8808Val Accuracy=0.8241, Macro F1=0.8196
+Epoch 50: Train Loss=0.0313, Val Loss=0.7438, Val Accuracy=0.8426, Macro F1=0.8337, Weighted F1=0.8429Val Accuracy=0.8241, Macro F1=0.8141
+Epoch 51: Train Loss=0.0279, Val Loss=0.8142, Val Accuracy=0.8333, Macro F1=0.8125, Weighted F1=0.8275Val Accuracy=0.8148, Macro F1=0.7917
+Epoch 52: Train Loss=0.0427, Val Loss=0.7180, Val Accuracy=0.8519, Macro F1=0.8376, Weighted F1=0.8492Val Accuracy=0.8194, Macro F1=0.7989
+Epoch 53: Train Loss=0.1311, Val Loss=0.8031, Val Accuracy=0.7963, Macro F1=0.7558, Weighted F1=0.7797Val Accuracy=0.7870, Macro F1=0.7398
+Epoch 54: Train Loss=0.0665, Val Loss=0.4484, Val Accuracy=0.8611, Macro F1=0.8545, Weighted F1=0.8620Val Accuracy=0.8380, Macro F1=0.8319
+Epoch 55: Train Loss=0.0285, Val Loss=0.5288, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8056, Macro F1=0.7915
+Epoch 56: Train Loss=0.0225, Val Loss=0.5959, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8102, Macro F1=0.7949
+Epoch 57: Train Loss=0.0158, Val Loss=0.6453, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8102, Macro F1=0.7949
+Epoch 58: Train Loss=0.0133, Val Loss=0.6698, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.8056, Macro F1=0.7936
+Epoch 59: Train Loss=0.0134, Val Loss=0.7148, Val Accuracy=0.8519, Macro F1=0.8412, Weighted F1=0.8511Val Accuracy=0.8102, Macro F1=0.7960
+Epoch 60: Train Loss=0.0130, Val Loss=0.7259, Val Accuracy=0.8611, Macro F1=0.8519, Weighted F1=0.8608Val Accuracy=0.8102, Macro F1=0.7970
+[*] Best model for fold 3 saved to C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\sep_transformer_best_model_fold_3.pth
+==> [Fold 3 Test] Acc=0.8241, MacroF1=0.8196, F1(H)=0.7912, AUC=0.9102, Prec(H)=0.7200, Recall(H)=0.8780
+
+======== Fold 4 ========
+Epoch 01: Train Loss=0.6816, Val Loss=0.6396, Val Accuracy=0.7870, Macro F1=0.7469, Weighted F1=0.7749Val Accuracy=0.7870, Macro F1=0.7665
+Best model updated based on val_acc!
+Epoch 02: Train Loss=0.6217, Val Loss=0.5510, Val Accuracy=0.7870, Macro F1=0.7587, Weighted F1=0.7817Val Accuracy=0.7870, Macro F1=0.7679
+Best model updated based on val_acc!
+Epoch 03: Train Loss=0.5328, Val Loss=0.5252, Val Accuracy=0.7593, Macro F1=0.7468, Weighted F1=0.7624Val Accuracy=0.7870, Macro F1=0.7816
+Epoch 04: Train Loss=0.4862, Val Loss=0.5044, Val Accuracy=0.7593, Macro F1=0.7488, Weighted F1=0.7630Val Accuracy=0.7870, Macro F1=0.7816
+Epoch 05: Train Loss=0.4537, Val Loss=0.5148, Val Accuracy=0.7778, Macro F1=0.7699, Weighted F1=0.7817Val Accuracy=0.7731, Macro F1=0.7690
+Best model updated based on val_acc!
+Epoch 06: Train Loss=0.4429, Val Loss=0.4526, Val Accuracy=0.8056, Macro F1=0.7904, Weighted F1=0.8061Val Accuracy=0.8102, Macro F1=0.8024
+Best model updated based on val_acc!
+Epoch 07: Train Loss=0.4364, Val Loss=0.4485, Val Accuracy=0.8148, Macro F1=0.8015, Weighted F1=0.8158Val Accuracy=0.8102, Macro F1=0.8031
+Best model updated based on val_acc!
+Epoch 08: Train Loss=0.4001, Val Loss=0.4433, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8194, Macro F1=0.8127
+Best model updated based on val_acc!
+Epoch 09: Train Loss=0.3822, Val Loss=0.4614, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8194, Macro F1=0.8134
+Epoch 10: Train Loss=0.3586, Val Loss=0.4416, Val Accuracy=0.8148, Macro F1=0.7970, Weighted F1=0.8137Val Accuracy=0.8380, Macro F1=0.8292
+Epoch 11: Train Loss=0.3252, Val Loss=0.4524, Val Accuracy=0.8056, Macro F1=0.7881, Weighted F1=0.8050Val Accuracy=0.8333, Macro F1=0.8261
+Epoch 12: Train Loss=0.3208, Val Loss=0.4515, Val Accuracy=0.8241, Macro F1=0.8083, Weighted F1=0.8236Val Accuracy=0.8333, Macro F1=0.8268
+Epoch 13: Train Loss=0.2904, Val Loss=0.4745, Val Accuracy=0.8148, Macro F1=0.7970, Weighted F1=0.8137Val Accuracy=0.8426, Macro F1=0.8344
+Epoch 14: Train Loss=0.2588, Val Loss=0.4910, Val Accuracy=0.8333, Macro F1=0.8194, Weighted F1=0.8333Val Accuracy=0.8472, Macro F1=0.8415
+Best model updated based on val_acc!
+Epoch 15: Train Loss=0.2268, Val Loss=0.5236, Val Accuracy=0.8056, Macro F1=0.7945, Weighted F1=0.8078Val Accuracy=0.8472, Macro F1=0.8431
+Epoch 16: Train Loss=0.2400, Val Loss=0.5116, Val Accuracy=0.7963, Macro F1=0.7739, Weighted F1=0.7937Val Accuracy=0.8287, Macro F1=0.8186
+Epoch 17: Train Loss=0.2000, Val Loss=0.5323, Val Accuracy=0.8241, Macro F1=0.8083, Weighted F1=0.8236Val Accuracy=0.8380, Macro F1=0.8306
+Epoch 18: Train Loss=0.1773, Val Loss=0.5548, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8472, Macro F1=0.8415
+Epoch 19: Train Loss=0.1516, Val Loss=0.6037, Val Accuracy=0.8148, Macro F1=0.8034, Weighted F1=0.8166Val Accuracy=0.8472, Macro F1=0.8421
+Epoch 20: Train Loss=0.1388, Val Loss=0.5921, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8333, Macro F1=0.8268
+Epoch 21: Train Loss=0.1216, Val Loss=0.6190, Val Accuracy=0.8148, Macro F1=0.8034, Weighted F1=0.8166Val Accuracy=0.8472, Macro F1=0.8421
+Epoch 22: Train Loss=0.1118, Val Loss=0.7384, Val Accuracy=0.7685, Macro F1=0.7295, Weighted F1=0.7581Val Accuracy=0.8194, Macro F1=0.7976
+Epoch 23: Train Loss=0.1010, Val Loss=0.6733, Val Accuracy=0.8148, Macro F1=0.7970, Weighted F1=0.8137Val Accuracy=0.8519, Macro F1=0.8442
+Epoch 24: Train Loss=0.0887, Val Loss=0.8092, Val Accuracy=0.7778, Macro F1=0.7682, Weighted F1=0.7813Val Accuracy=0.8241, Macro F1=0.8201
+Epoch 25: Train Loss=0.0847, Val Loss=0.6918, Val Accuracy=0.8056, Macro F1=0.7926, Weighted F1=0.8070Val Accuracy=0.8565, Macro F1=0.8506
+Epoch 26: Train Loss=0.0586, Val Loss=0.7075, Val Accuracy=0.8056, Macro F1=0.7797, Weighted F1=0.8007Val Accuracy=0.8380, Macro F1=0.8258
+Epoch 27: Train Loss=0.0686, Val Loss=0.8745, Val Accuracy=0.7870, Macro F1=0.7512, Weighted F1=0.7774Val Accuracy=0.8194, Macro F1=0.7976
+Epoch 28: Train Loss=0.0867, Val Loss=1.0171, Val Accuracy=0.7315, Macro F1=0.7275, Weighted F1=0.7366Val Accuracy=0.7824, Macro F1=0.7807
+Epoch 29: Train Loss=0.1040, Val Loss=0.7061, Val Accuracy=0.8148, Macro F1=0.8015, Weighted F1=0.8158Val Accuracy=0.8472, Macro F1=0.8415
+Epoch 30: Train Loss=0.0789, Val Loss=0.7279, Val Accuracy=0.7778, Macro F1=0.7682, Weighted F1=0.7813Val Accuracy=0.8426, Macro F1=0.8381
+Epoch 31: Train Loss=0.0570, Val Loss=0.7788, Val Accuracy=0.8056, Macro F1=0.7963, Weighted F1=0.8084Val Accuracy=0.8333, Macro F1=0.8291
+Epoch 32: Train Loss=0.0520, Val Loss=0.7879, Val Accuracy=0.8056, Macro F1=0.7979, Weighted F1=0.8088Val Accuracy=0.8241, Macro F1=0.8185
+Epoch 33: Train Loss=0.0448, Val Loss=0.7017, Val Accuracy=0.8148, Macro F1=0.7917, Weighted F1=0.8110Val Accuracy=0.8333, Macro F1=0.8194
+Epoch 34: Train Loss=0.0507, Val Loss=0.7249, Val Accuracy=0.8426, Macro F1=0.8264, Weighted F1=0.8411Val Accuracy=0.8519, Macro F1=0.8427
+Best model updated based on val_acc!
+Epoch 35: Train Loss=0.0421, Val Loss=0.7452, Val Accuracy=0.8241, Macro F1=0.8060, Weighted F1=0.8224Val Accuracy=0.8426, Macro F1=0.8329
+Epoch 36: Train Loss=0.0323, Val Loss=0.8222, Val Accuracy=0.7870, Macro F1=0.7551, Weighted F1=0.7797Val Accuracy=0.8287, Macro F1=0.8149
+Epoch 37: Train Loss=0.0366, Val Loss=0.7910, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8611, Macro F1=0.8545
+Epoch 38: Train Loss=0.0489, Val Loss=1.0110, Val Accuracy=0.7593, Macro F1=0.7539, Weighted F1=0.7640Val Accuracy=0.8056, Macro F1=0.8035
+Epoch 39: Train Loss=0.0424, Val Loss=0.9541, Val Accuracy=0.7870, Macro F1=0.7787, Weighted F1=0.7906Val Accuracy=0.8287, Macro F1=0.8246
+Epoch 40: Train Loss=0.0513, Val Loss=0.9700, Val Accuracy=0.7778, Macro F1=0.7424, Weighted F1=0.7689Val Accuracy=0.8194, Macro F1=0.8027
+Epoch 41: Train Loss=0.0280, Val Loss=0.8907, Val Accuracy=0.7963, Macro F1=0.7875, Weighted F1=0.7995Val Accuracy=0.8426, Macro F1=0.8358
+Epoch 42: Train Loss=0.0349, Val Loss=0.9520, Val Accuracy=0.7870, Macro F1=0.7551, Weighted F1=0.7797Val Accuracy=0.8056, Macro F1=0.7842
+Epoch 43: Train Loss=0.0286, Val Loss=0.8549, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8254Val Accuracy=0.8565, Macro F1=0.8500
+Epoch 44: Train Loss=0.0366, Val Loss=0.9004, Val Accuracy=0.8056, Macro F1=0.7797, Weighted F1=0.8007Val Accuracy=0.8333, Macro F1=0.8173
+Epoch 45: Train Loss=0.0360, Val Loss=0.8557, Val Accuracy=0.8333, Macro F1=0.8150, Weighted F1=0.8312Val Accuracy=0.8380, Macro F1=0.8267
+Epoch 46: Train Loss=0.0265, Val Loss=0.8446, Val Accuracy=0.8333, Macro F1=0.8150, Weighted F1=0.8312Val Accuracy=0.8380, Macro F1=0.8267
+Epoch 47: Train Loss=0.0236, Val Loss=0.8130, Val Accuracy=0.8148, Macro F1=0.7970, Weighted F1=0.8137Val Accuracy=0.8426, Macro F1=0.8329
+Epoch 48: Train Loss=0.0194, Val Loss=0.8460, Val Accuracy=0.8148, Macro F1=0.7917, Weighted F1=0.8110Val Accuracy=0.8333, Macro F1=0.8204
+Epoch 49: Train Loss=0.0135, Val Loss=0.8991, Val Accuracy=0.8056, Macro F1=0.7797, Weighted F1=0.8007Val Accuracy=0.8287, Macro F1=0.8159
+Epoch 50: Train Loss=0.0137, Val Loss=0.8780, Val Accuracy=0.8426, Macro F1=0.8285, Weighted F1=0.8421Val Accuracy=0.8472, Macro F1=0.8382
+Best model updated based on val_acc!
+Epoch 51: Train Loss=0.0165, Val Loss=0.9280, Val Accuracy=0.8148, Macro F1=0.7917, Weighted F1=0.8110Val Accuracy=0.8333, Macro F1=0.8194
+Epoch 52: Train Loss=0.0073, Val Loss=0.9368, Val Accuracy=0.8241, Macro F1=0.8104, Weighted F1=0.8245Val Accuracy=0.8380, Macro F1=0.8299
+Epoch 53: Train Loss=0.0135, Val Loss=1.0332, Val Accuracy=0.8148, Macro F1=0.7917, Weighted F1=0.8110Val Accuracy=0.8333, Macro F1=0.8184
+Epoch 54: Train Loss=0.0086, Val Loss=0.9561, Val Accuracy=0.8426, Macro F1=0.8264, Weighted F1=0.8411Val Accuracy=0.8380, Macro F1=0.8267
+Epoch 55: Train Loss=0.0038, Val Loss=0.9786, Val Accuracy=0.8426, Macro F1=0.8264, Weighted F1=0.8411Val Accuracy=0.8333, Macro F1=0.8204
+Epoch 56: Train Loss=0.0095, Val Loss=1.2295, Val Accuracy=0.8056, Macro F1=0.7979, Weighted F1=0.8088Val Accuracy=0.8194, Macro F1=0.8156
+Epoch 57: Train Loss=0.0340, Val Loss=1.3098, Val Accuracy=0.7685, Macro F1=0.7626, Weighted F1=0.7730Val Accuracy=0.7778, Macro F1=0.7754
+Epoch 58: Train Loss=0.0223, Val Loss=1.0411, Val Accuracy=0.8056, Macro F1=0.7764, Weighted F1=0.7988Val Accuracy=0.8102, Macro F1=0.7913
+Epoch 59: Train Loss=0.0083, Val Loss=0.9143, Val Accuracy=0.8241, Macro F1=0.8083, Weighted F1=0.8236Val Accuracy=0.8333, Macro F1=0.8239
+Epoch 60: Train Loss=0.0033, Val Loss=1.0876, Val Accuracy=0.8056, Macro F1=0.7764, Weighted F1=0.7988Val Accuracy=0.8194, Macro F1=0.8027
+[*] Best model for fold 4 saved to C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\sep_transformer_best_model_fold_4.pth
+==> [Fold 4 Test] Acc=0.8472, MacroF1=0.8382, F1(H)=0.8000, AUC=0.8973, Prec(H)=0.8354, Recall(H)=0.7674
+
+======== Fold 5 ========
+Epoch 01: Train Loss=0.6860, Val Loss=0.6463, Val Accuracy=0.7685, Macro F1=0.7377, Weighted F1=0.7694Val Accuracy=0.8380, Macro F1=0.8267
+Best model updated based on val_acc!
+Epoch 02: Train Loss=0.6132, Val Loss=0.5642, Val Accuracy=0.7778, Macro F1=0.7618, Weighted F1=0.7835Val Accuracy=0.8241, Macro F1=0.8157
+Best model updated based on val_acc!
+Epoch 03: Train Loss=0.5397, Val Loss=0.5021, Val Accuracy=0.7963, Macro F1=0.7675, Weighted F1=0.7963Val Accuracy=0.8426, Macro F1=0.8313
+Best model updated based on val_acc!
+Epoch 04: Train Loss=0.5007, Val Loss=0.5054, Val Accuracy=0.7778, Macro F1=0.7533, Weighted F1=0.7807Val Accuracy=0.8380, Macro F1=0.8276
+Epoch 05: Train Loss=0.4807, Val Loss=0.4846, Val Accuracy=0.7963, Macro F1=0.7675, Weighted F1=0.7963Val Accuracy=0.8426, Macro F1=0.8294
+Epoch 06: Train Loss=0.4557, Val Loss=0.5034, Val Accuracy=0.8056, Macro F1=0.7881, Weighted F1=0.8095Val Accuracy=0.8380, Macro F1=0.8299
+Best model updated based on val_acc!
+Epoch 07: Train Loss=0.4493, Val Loss=0.5637, Val Accuracy=0.7315, Macro F1=0.7209, Weighted F1=0.7400Val Accuracy=0.8287, Macro F1=0.8229
+Epoch 08: Train Loss=0.4125, Val Loss=0.4935, Val Accuracy=0.8241, Macro F1=0.8104, Weighted F1=0.8283Val Accuracy=0.8380, Macro F1=0.8299
+Best model updated based on val_acc!
+Epoch 09: Train Loss=0.3857, Val Loss=0.4680, Val Accuracy=0.8333, Macro F1=0.8194, Weighted F1=0.8370Val Accuracy=0.8380, Macro F1=0.8284
+Best model updated based on val_acc!
+Epoch 10: Train Loss=0.3708, Val Loss=0.4684, Val Accuracy=0.8241, Macro F1=0.8123, Weighted F1=0.8289Val Accuracy=0.8565, Macro F1=0.8506
+Epoch 11: Train Loss=0.3477, Val Loss=0.5206, Val Accuracy=0.7778, Macro F1=0.7699, Weighted F1=0.7849Val Accuracy=0.8472, Macro F1=0.8436
+Epoch 12: Train Loss=0.3363, Val Loss=0.4619, Val Accuracy=0.8148, Macro F1=0.8015, Weighted F1=0.8196Val Accuracy=0.8796, Macro F1=0.8739
+Epoch 13: Train Loss=0.2770, Val Loss=0.4696, Val Accuracy=0.8056, Macro F1=0.7904, Weighted F1=0.8102Val Accuracy=0.8796, Macro F1=0.8749
+Epoch 14: Train Loss=0.2935, Val Loss=0.4430, Val Accuracy=0.8241, Macro F1=0.8083, Weighted F1=0.8276Val Accuracy=0.8843, Macro F1=0.8785
+Epoch 15: Train Loss=0.2759, Val Loss=0.5780, Val Accuracy=0.7778, Macro F1=0.7682, Weighted F1=0.7848Val Accuracy=0.8241, Macro F1=0.8215
+Epoch 16: Train Loss=0.2562, Val Loss=0.4560, Val Accuracy=0.7963, Macro F1=0.7767, Weighted F1=0.8000Val Accuracy=0.8565, Macro F1=0.8506
+Epoch 17: Train Loss=0.2067, Val Loss=0.5378, Val Accuracy=0.8056, Macro F1=0.7926, Weighted F1=0.8108Val Accuracy=0.8704, Macro F1=0.8667
+Epoch 18: Train Loss=0.2017, Val Loss=0.4664, Val Accuracy=0.8241, Macro F1=0.8034, Weighted F1=0.8258Val Accuracy=0.8750, Macro F1=0.8682
+Epoch 19: Train Loss=0.1709, Val Loss=0.4941, Val Accuracy=0.8241, Macro F1=0.7830, Weighted F1=0.8162Val Accuracy=0.8657, Macro F1=0.8541
+Epoch 20: Train Loss=0.1617, Val Loss=0.5387, Val Accuracy=0.8148, Macro F1=0.7993, Weighted F1=0.8189Val Accuracy=0.8611, Macro F1=0.8571
+Epoch 21: Train Loss=0.1404, Val Loss=0.5174, Val Accuracy=0.8148, Macro F1=0.7854, Weighted F1=0.8133Val Accuracy=0.8750, Macro F1=0.8670
+Epoch 22: Train Loss=0.1133, Val Loss=0.5539, Val Accuracy=0.8241, Macro F1=0.7945, Weighted F1=0.8219Val Accuracy=0.8704, Macro F1=0.8617
+Epoch 23: Train Loss=0.1278, Val Loss=0.5514, Val Accuracy=0.8333, Macro F1=0.8036, Weighted F1=0.8305Val Accuracy=0.8750, Macro F1=0.8670
+Epoch 24: Train Loss=0.0857, Val Loss=0.6246, Val Accuracy=0.8056, Macro F1=0.7764, Weighted F1=0.8048Val Accuracy=0.8426, Macro F1=0.8304
+Epoch 25: Train Loss=0.0848, Val Loss=0.6780, Val Accuracy=0.8056, Macro F1=0.7764, Weighted F1=0.8048Val Accuracy=0.8472, Macro F1=0.8374
+Epoch 26: Train Loss=0.0734, Val Loss=0.7687, Val Accuracy=0.7778, Macro F1=0.7618, Weighted F1=0.7835Val Accuracy=0.8519, Macro F1=0.8476
+Epoch 27: Train Loss=0.2004, Val Loss=0.9396, Val Accuracy=0.7222, Macro F1=0.7188, Weighted F1=0.7297Val Accuracy=0.8056, Macro F1=0.8047
+Epoch 28: Train Loss=0.2179, Val Loss=0.5939, Val Accuracy=0.7407, Macro F1=0.7363, Weighted F1=0.7483Val Accuracy=0.8241, Macro F1=0.8228
+Epoch 29: Train Loss=0.1440, Val Loss=0.4440, Val Accuracy=0.8519, Macro F1=0.8356, Weighted F1=0.8538Val Accuracy=0.8750, Macro F1=0.8698
+Best model updated based on val_acc!
+Epoch 30: Train Loss=0.0838, Val Loss=0.5778, Val Accuracy=0.8056, Macro F1=0.7728, Weighted F1=0.8032Val Accuracy=0.8611, Macro F1=0.8503
+Epoch 31: Train Loss=0.0586, Val Loss=0.6544, Val Accuracy=0.8241, Macro F1=0.8007, Weighted F1=0.8247Val Accuracy=0.8519, Macro F1=0.8412
+Epoch 32: Train Loss=0.0602, Val Loss=0.6876, Val Accuracy=0.8148, Macro F1=0.7886, Weighted F1=0.8148Val Accuracy=0.8565, Macro F1=0.8457
+Epoch 33: Train Loss=0.0434, Val Loss=0.7243, Val Accuracy=0.8148, Macro F1=0.7886, Weighted F1=0.8148Val Accuracy=0.8519, Macro F1=0.8403
+Epoch 34: Train Loss=0.0411, Val Loss=0.7385, Val Accuracy=0.8241, Macro F1=0.8007, Weighted F1=0.8247Val Accuracy=0.8657, Macro F1=0.8571
+Epoch 35: Train Loss=0.0400, Val Loss=0.7714, Val Accuracy=0.8333, Macro F1=0.8036, Weighted F1=0.8305Val Accuracy=0.8611, Macro F1=0.8486
+Epoch 36: Train Loss=0.0360, Val Loss=0.7516, Val Accuracy=0.8241, Macro F1=0.8007, Weighted F1=0.8247Val Accuracy=0.8565, Macro F1=0.8511
+Epoch 37: Train Loss=0.0508, Val Loss=0.7580, Val Accuracy=0.8426, Macro F1=0.8129, Weighted F1=0.8391Val Accuracy=0.8843, Macro F1=0.8768
+Epoch 38: Train Loss=0.0480, Val Loss=0.7805, Val Accuracy=0.8333, Macro F1=0.8002, Weighted F1=0.8288Val Accuracy=0.8565, Macro F1=0.8402
+Epoch 39: Train Loss=0.0400, Val Loss=0.8634, Val Accuracy=0.8148, Macro F1=0.7818, Weighted F1=0.8117Val Accuracy=0.8472, Macro F1=0.8340
+Epoch 40: Train Loss=0.0398, Val Loss=0.8246, Val Accuracy=0.8056, Macro F1=0.7797, Weighted F1=0.8063Val Accuracy=0.8657, Macro F1=0.8585
+Epoch 41: Train Loss=0.0309, Val Loss=0.8928, Val Accuracy=0.7685, Macro F1=0.7505, Weighted F1=0.7741Val Accuracy=0.8611, Macro F1=0.8580
+Epoch 42: Train Loss=0.0251, Val Loss=0.8478, Val Accuracy=0.8333, Macro F1=0.8068, Weighted F1=0.8320Val Accuracy=0.8472, Macro F1=0.8366
+Epoch 43: Train Loss=0.0237, Val Loss=0.8630, Val Accuracy=0.8426, Macro F1=0.8129, Weighted F1=0.8391Val Accuracy=0.8704, Macro F1=0.8579
+Epoch 44: Train Loss=0.0354, Val Loss=0.9295, Val Accuracy=0.7963, Macro F1=0.7639, Weighted F1=0.7947Val Accuracy=0.8426, Macro F1=0.8274
+Epoch 45: Train Loss=0.0235, Val Loss=0.8812, Val Accuracy=0.8333, Macro F1=0.8068, Weighted F1=0.8320Val Accuracy=0.8843, Macro F1=0.8762
+Epoch 46: Train Loss=0.0181, Val Loss=0.8666, Val Accuracy=0.8241, Macro F1=0.7977, Weighted F1=0.8234Val Accuracy=0.8657, Macro F1=0.8591
+Epoch 47: Train Loss=0.0179, Val Loss=1.0182, Val Accuracy=0.8056, Macro F1=0.7601, Weighted F1=0.7969Val Accuracy=0.8472, Macro F1=0.8275
+Epoch 48: Train Loss=0.0097, Val Loss=0.9408, Val Accuracy=0.8056, Macro F1=0.7797, Weighted F1=0.8063Val Accuracy=0.8565, Macro F1=0.8500
+Epoch 49: Train Loss=0.0061, Val Loss=0.9504, Val Accuracy=0.8426, Macro F1=0.8161, Weighted F1=0.8407Val Accuracy=0.8796, Macro F1=0.8728
+Epoch 50: Train Loss=0.0060, Val Loss=0.9973, Val Accuracy=0.8426, Macro F1=0.8129, Weighted F1=0.8391Val Accuracy=0.8704, Macro F1=0.8579
+Epoch 51: Train Loss=0.0104, Val Loss=1.0863, Val Accuracy=0.7963, Macro F1=0.7739, Weighted F1=0.7989Val Accuracy=0.8657, Macro F1=0.8607
+Epoch 52: Train Loss=0.0119, Val Loss=1.0701, Val Accuracy=0.8241, Macro F1=0.7830, Weighted F1=0.8162Val Accuracy=0.8565, Macro F1=0.8402
+Epoch 53: Train Loss=0.0077, Val Loss=1.0566, Val Accuracy=0.8148, Macro F1=0.7886, Weighted F1=0.8148Val Accuracy=0.8565, Macro F1=0.8493
+Epoch 54: Train Loss=0.0053, Val Loss=1.0741, Val Accuracy=0.8148, Macro F1=0.7886, Weighted F1=0.8148Val Accuracy=0.8704, Macro F1=0.8630
+Epoch 55: Train Loss=0.0041, Val Loss=1.1080, Val Accuracy=0.8241, Macro F1=0.7909, Weighted F1=0.8202Val Accuracy=0.8611, Macro F1=0.8477
+Epoch 56: Train Loss=0.0050, Val Loss=1.1529, Val Accuracy=0.8056, Macro F1=0.7827, Weighted F1=0.8075Val Accuracy=0.8519, Macro F1=0.8448
+Epoch 57: Train Loss=0.0080, Val Loss=1.1336, Val Accuracy=0.8333, Macro F1=0.8002, Weighted F1=0.8288Val Accuracy=0.8611, Macro F1=0.8458
+Epoch 58: Train Loss=0.0058, Val Loss=1.1097, Val Accuracy=0.8241, Macro F1=0.7977, Weighted F1=0.8234Val Accuracy=0.8889, Macro F1=0.8809
+Epoch 59: Train Loss=0.0025, Val Loss=1.1081, Val Accuracy=0.8519, Macro F1=0.8255, Weighted F1=0.8493Val Accuracy=0.8843, Macro F1=0.8742
+Epoch 60: Train Loss=0.0023, Val Loss=1.1471, Val Accuracy=0.8241, Macro F1=0.7977, Weighted F1=0.8234Val Accuracy=0.8843, Macro F1=0.8762
+[*] Best model for fold 5 saved to C:\Users\31589\PycharmProjects\Hateful_Video_Localisation\sep_transformer_best_model_fold_5.pth
+==> [Fold 5 Test] Acc=0.8750, MacroF1=0.8698, F1(H)=0.8439, AUC=0.9472, Prec(H)=0.7849, Recall(H)=0.9125
+
+================ (Cross-Validation) ================
+Accuracy       : 0.8370 ± 0.0244
+Macro F1       : 0.8316 ± 0.0236
+F1 (H)         : 0.8018 ± 0.0243
+AUC            : 0.9030 ± 0.0281
+Precision (H)  : 0.7829 ± 0.0421
+Recall (H)     : 0.8264 ± 0.0646
+
+
+
+
+
